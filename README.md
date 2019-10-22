@@ -1,4 +1,5 @@
-# VePro
+# VePro - Keuzedeel Veilig Programmeren
+## Made by: Mees van Aarsen
 
 - Authentication Controls are Serverside
 - Sessions are invalidated when logged out
